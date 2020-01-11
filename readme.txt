@@ -8,3 +8,5 @@ this is a different line added in master
 this is a very new line in line branch
 
 git is awesome
+
+git is powerful
